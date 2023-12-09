@@ -1,4 +1,4 @@
-![Screenshot 2023-12-09 130947](https://github.com/omkarauti11/BLOG_APP/assets/122270586/befb7e64-ed9a-4bc7-9603-770ffc9a742f)# BLOG_APP
+# BLOG_APP
 
 A simple blog web application built with Node.js, Express, and MongoDB. Explore insightful articles, share your stories, and connect with our community.
 
