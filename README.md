@@ -1,4 +1,4 @@
-# BLOG_APP
+![Screenshot 2023-12-09 130947](https://github.com/omkarauti11/BLOG_APP/assets/122270586/befb7e64-ed9a-4bc7-9603-770ffc9a742f)# BLOG_APP
 
 A simple blog web application built with Node.js, Express, and MongoDB. Explore insightful articles, share your stories, and connect with our community.
 
@@ -53,6 +53,13 @@ Welcome to our blog! This web application allows users to read and write article
 3. **Create custom blog by moving to the compose page by adding to the URL (e.g., [http://localhost:3000/compose](http://localhost:3000/compose)).**
 4. **Read individual posts by clicking on the read more...**
 5. **Visit the "About" and "Contact" pages to learn more about us.**
+
+## Screen-Shots
+![Screenshot 2023-12-09 130947](https://github.com/omkarauti11/BLOG_APP/assets/122270586/fa979fbd-2b74-47c2-8137-886488cf9718)
+
+![Screenshot 2023-12-09 131410](https://github.com/omkarauti11/BLOG_APP/assets/122270586/67596d7f-6278-46e7-ba73-5df3fc04ffc5)
+![Screenshot 2023-12-09 131008](https://github.com/omkarauti11/BLOG_APP/assets/122270586/be5aafdc-65c6-471f-ba86-3a33dd5cee26)
+![Screenshot 2023-12-09 131349](https://github.com/omkarauti11/BLOG_APP/assets/122270586/bbd34c2d-81b6-4098-ad0c-c953783e4df5)
 
 ## Contributing
 
