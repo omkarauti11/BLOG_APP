@@ -50,7 +50,7 @@ Welcome to our blog! This web application allows users to read and write article
 
 1. **Navigate to [http://localhost:3000](http://localhost:3000) to access the blog web app.**
 2. **Explore existing posts on the homepage.**
-3. **Click on "Compose" to create and publish your own blog posts.**
+3. **Create custom blog by moving to the compose page by adding to the URL (e.g., [http://localhost:3000/compose](http://localhost:3000/compose)).**
 4. **Read individual posts by clicking on the read more...**
 5. **Visit the "About" and "Contact" pages to learn more about us.**
 
