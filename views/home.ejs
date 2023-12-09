@@ -1,0 +1,19 @@
+
+<%- include("partials/header"); -%>
+
+    <h1>Home</h1>
+    <p> <%= home %> </p>
+
+  <%  allPosts.forEach(function(post) { %>
+        <h1> <%= post.title %> </h1>
+    <%   let truncatedContent = post.content.substring(0,100);  %>
+        <p> 
+              <%= truncatedContent %> ...   
+              <a href="/posts/<%=post._id%>"> Read More </a>
+              
+        </p>
+  <%   }); %>
+
+<%- include("partials/footer"); -%>
+
+
